@@ -193,7 +193,7 @@
           "streams": [
             {
               "title": "Main Feed",
-              "url": ""
+              "url": "https://sweden.futtv.nx.kg/mls360/index.m3u8"
             }
           ]
         },
@@ -209,7 +209,7 @@
           "streams": [
             {
               "title": "Main Feed",
-              "url": ""
+              "url": "https://sweden.futtv.nx.kg/intm/index.m3u8"
             }
           ]
         }
