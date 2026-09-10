@@ -6,18 +6,34 @@
       "always_live": 0,
       "streams": [
         {
-          "name": "New England Patriots @ Seattle Seahawks",
-          "uri_name": "n4e1p7",
-          "poster": "https://i.ibb.co/6zQXGHd/file-000000007314820eaa75e2e1c450aa2e.png",
-          "tag": "NFL",
-          "starts_at": "2026-09-10T03:20:00",
-          "ends_at": "2026-09-10T07:00:00",
+          "name": "Florida A&M Rattlers @ Miami Hurricanes",
+          "uri_name": "f4a1r7",
+          "poster": "https://i.postimg.cc/G26KPsxq/image-50568f6b.jpg",
+          "tag": "College Football",
+          "starts_at": "2026-09-11T03:00:00",
+          "ends_at": "2026-09-11T05:30:00",
           "always_live": 0,
           "max_simulated_viewers": 0,
           "streams": [
             {
               "title": "Main Feed",
-              "url": "https://sweden.futtv.nx.kg/pt-se/index.m3u8"
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "San Francisco 49ers @ Los Angeles Rams",
+          "uri_name": "s4f1r7",
+          "poster": "https://i.postimg.cc/MHRD9K95/image-a4c0b7e8.jpg",
+          "tag": "NFL",
+          "starts_at": "2026-09-11T03:35:00",
+          "ends_at": "2026-09-11T06:00:00",
+          "always_live": 0,
+          "max_simulated_viewers": 0,
+          "streams": [
+            {
+              "title": "Main Feed",
+              "url": ""
             }
           ]
         }
