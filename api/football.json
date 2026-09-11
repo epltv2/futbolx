@@ -6,146 +6,98 @@
       "always_live": 0,
       "streams": [
         {
-          "name": "Fenerbahçe vs Roma",
-          "uri_name": "f4v1r7",
-          "poster": "https://i.postimg.cc/tJP5BCBw/image-c7c57382.jpg",
-          "tag": "UCL",
-          "starts_at": "2026-09-10T19:45:00",
-          "ends_at": "2026-09-10T21:50:00",
-          "always_live": 0,
-          "max_simulated_viewers": 0,
-          "streams": [
-            {
-              "title": "Main Feed En",
-              "url": "https://sweden.futtv.nx.kg/rom/index.m3u8"
-            },
-            {
-              "title": "Alt Feed 1 It",
-              "url": "https://sweden.futtv.nx.kg/fen/index.m3u8"
-            }
-          ]
-        },
-        {
-          "name": "PSV Eindhoven vs Shakhtar",
-          "uri_name": "p4v1s7",
-          "poster": "https://i.postimg.cc/vB4X6vfb/image-c915e59a.jpg",
-          "tag": "UCL",
-          "starts_at": "2026-09-10T19:45:00",
-          "ends_at": "2026-09-10T21:50:00",
-          "always_live": 0,
-          "max_simulated_viewers": 0,
-          "streams": [
-            {
-              "title": "Main Feed En",
-              "url": "https://sweden.futtv.nx.kg/psv/index.m3u8"
-            }
-          ]
-        },
-        {
-          "name": "UCL Golazo Show",
-          "uri_name": "u4g1s7",
-          "poster": "https://thumbnails.cbsig.net/_x/w1200/CBS_Production_Entertainment_VMS/2023/11/17/2284087363956/UCL_GOLAZO_SHOW_112823_2443846_1920x1080.jpg",
-          "tag": "UCL",
-          "starts_at": "2026-09-10T22:00:00",
-          "ends_at": "2026-09-11T00:05:00",
+          "name": "Al-Faisaly vs Al Ittihad",
+          "uri_name": "a4v1a7",
+          "poster": "https://i.ibb.co/YTj6KxXQ/file-0000000089fc81fa8ac4cc0cea9853d4.png",
+          "tag": "Saudi League",
+          "starts_at": "2026-09-11T18:45:00",
+          "ends_at": "2026-09-11T20:50:00",
           "always_live": 0,
           "max_simulated_viewers": 0,
           "streams": [
             {
               "title": "Main Feed",
-              "url": "https://india.futtv.nx.kg/ucl/index.m3u8"
+              "url": ""
             }
           ]
         },
         {
-          "name": "Bayern Münich vs Bodø/Glimt",
-          "uri_name": "b4v1b7",
-          "poster": "https://i.postimg.cc/nLR0zWsy/image-ab865bea.jpg",
-          "tag": "UCL",
-          "starts_at": "2026-09-10T22:00:00",
-          "ends_at": "2026-09-11T00:05:00",
-          "always_live": 0,
-          "max_simulated_viewers": 0,
-          "streams": [
-            {
-              "title": "Main Feed En",
-              "url": "https://sweden.futtv.nx.kg/bay/index.m3u8"
-            },
-            {
-              "title": "Alt Feed 1 De",
-              "url": "https://india.futtv.nx.kg/bod/index.m3u8"
-            }
-          ]
-        },
-        {
-          "name": "Manchester United vs Sabah",
-          "uri_name": "m4v1s7",
-          "poster": "https://i.postimg.cc/j5Bc6J4P/image-b9de3d7e.jpg",
-          "tag": "UCL",
-          "starts_at": "2026-09-10T22:00:00",
-          "ends_at": "2026-09-11T00:05:00",
-          "always_live": 0,
-          "max_simulated_viewers": 0,
-          "streams": [
-            {
-              "title": "Main Feed En",
-              "url": "https://sweden.futtv.nx.kg/mufc/index.m3u8"
-            },
-            {
-              "title": "Alt Feed 1 Ar",
-              "url": "https://sweden.futtv.nx.kg/saba/index.m3u8"
-            }
-          ]
-        },
-        {
-          "name": "Como vs RB Leipzig",
-          "uri_name": "c4v1r7",
-          "poster": "https://i.postimg.cc/Kz1Qg5BX/image-61395d59.jpg",
-          "tag": "UCL",
-          "starts_at": "2026-09-10T22:00:00",
-          "ends_at": "2026-09-11T00:05:00",
-          "always_live": 0,
-          "max_simulated_viewers": 0,
-          "streams": [
-            {
-              "title": "Main Feed En",
-              "url": "https://india.futtv.nx.kg/como/index.m3u8"
-            }
-          ]
-        },
-        {
-          "name": "Slavia Prague vs Lens",
-          "uri_name": "s4v1l7",
-          "poster": "https://i.postimg.cc/B6Rp51BN/image-d32a0c7e.jpg",
-          "tag": "UCL",
-          "starts_at": "2026-09-10T22:00:00",
-          "ends_at": "2026-09-11T00:05:00",
-          "always_live": 0,
-          "max_simulated_viewers": 0,
-          "streams": [
-            {
-              "title": "Main Feed En",
-              "url": "https://india.futtv.nx.kg/slav/index.m3u8"
-            },
-            {
-              "title": "Alt Feed 1 Fr",
-              "url": "https://india.futtv.nx.kg/len/index.m3u8"
-            }
-          ]
-        },
-        {
-          "name": "Estrela vs Braga",
-          "uri_name": "e4v1b7",
-          "poster": "https://i.ibb.co/HL69fJDH/file-00000000949881f5a1cb25498bb5f928.png",
-          "tag": "Liga Portugal",
-          "starts_at": "2026-09-10T22:15:00",
-          "ends_at": "2026-09-11T00:20:00",
+          "name": "Union Berlin vs Schalke 04",
+          "uri_name": "u4v1s7",
+          "poster": "https://i.ibb.co/nNbdXhrD/image-a001be28.jpg",
+          "tag": "Bundesliga",
+          "starts_at": "2026-09-11T21:30:00",
+          "ends_at": "2026-09-11T23:35:00",
           "always_live": 0,
           "max_simulated_viewers": 0,
           "streams": [
             {
               "title": "Main Feed",
-              "url": "https://sweden.futtv.nx.kg/brag/index.m3u8"
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Rennais vs Marseille",
+          "uri_name": "r4v1m7",
+          "poster": "https://i.ibb.co/QjJ14GLM/image-ea1dcc3f.jpg",
+          "tag": "Ligue 1",
+          "starts_at": "2026-09-11T21:45:00",
+          "ends_at": "2026-09-11T23:50:00",
+          "always_live": 0,
+          "max_simulated_viewers": 0,
+          "streams": [
+            {
+              "title": "Main Feed",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Venezia vs Fiorentina",
+          "uri_name": "v4v1f7",
+          "poster": "https://i.ibb.co/Gfv3PDjH/image-c509d50b.jpg",
+          "tag": "Seria A",
+          "starts_at": "2026-09-11T21:45:00",
+          "ends_at": "2026-09-11T23:50:00",
+          "always_live": 0,
+          "max_simulated_viewers": 0,
+          "streams": [
+            {
+              "title": "Main Feed",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "Sevilla vs Valencia",
+          "uri_name": "s4v1v7",
+          "poster": "https://i.ibb.co/C5Vmh8rH/image-b1e3c950.jpg",
+          "tag": "Laliga",
+          "starts_at": "2026-09-11T22:00:00",
+          "ends_at": "2026-09-12T00:00:00",
+          "always_live": 0,
+          "max_simulated_viewers": 0,
+          "streams": [
+            {
+              "title": "Main Feed",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "name": "West Ham vs Wrexham",
+          "uri_name": "w4v1w7",
+          "poster": "https://i.ibb.co/XfsYNJZ1/image-4024e2d4.jpg",
+          "tag": "EFL Championship",
+          "starts_at": "2026-09-11T22:00:00",
+          "ends_at": "2026-09-12T00:00:00",
+          "always_live": 0,
+          "max_simulated_viewers": 0,
+          "streams": [
+            {
+              "title": "Main Feed",
+              "url": ""
             }
           ]
         }
