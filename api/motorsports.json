@@ -16,12 +16,12 @@
           "max_simulated_viewers": 0,
           "streams": [
             {
-              "title": "Main Feed",
-              "url": ""
+              "title": "Sky F1 En",
+              "url": "https://sweden.futtv.nx.kg/f1-en/index.m3u8"
             },
             {
-              "title": "Alt Feed 1",
-              "url": ""
+              "title": "Sky F1 It",
+              "url": "https://sweden.futtv.nx.kg/f1-It/index.m3u8"
             }
           ]
         },
